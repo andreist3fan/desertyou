@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @desertyou
-- 👀 I’m interested in (almost) everything related to coding.
-- 🌱 I’m currently learning Java, but I'm looking to learn Python as well.
-- 📫 How to reach me: either on Instagram @andreiistefan7 or Discord xor#5016.
+hi
 
 <!---
 desertyou/desertyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
